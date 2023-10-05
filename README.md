@@ -1,7 +1,7 @@
 # Music_Library_System
 This C++ code defines a simple music library system with the ability to perform various operations related to music tracks and playlists.
 
-Here's a description of the main components and functionality of the code:
+Here's a information of the main components and functionality of the code:
 
 1. `MusicTrack` Class:
    - Represents a music track with attributes such as ID, title, artist, album, genre, and a pointer to the next track (for collision handling in the hash table).
